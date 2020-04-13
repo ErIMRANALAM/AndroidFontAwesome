@@ -5,7 +5,6 @@
 For an example if you want to display android Robot logo, you can use &#xf17b; unicode as TextView value.
 </p><hr/>
 
-<img width="200" hight="450" src="https://raw.githubusercontent.com/ErIMRANALAM/AndroidFontAwesome/master/Font%20Awesome_A.jpg" />
-
-<img width="200" hight="450" src="https://raw.githubusercontent.com/ErIMRANALAM/AndroidFontAwesome/master/Font%20Awesome_B.jpg" />
+<img width="240" hight="500" src="https://raw.githubusercontent.com/ErIMRANALAM/AndroidFontAwesome/master/Font%20Awesome_A.jpg" />
+<img width="240" hight="500" src="https://raw.githubusercontent.com/ErIMRANALAM/AndroidFontAwesome/master/Font%20Awesome_B.jpg" />
 
